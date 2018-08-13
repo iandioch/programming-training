@@ -1,5 +1,11 @@
 Some topics to study for competitive programming, and some algorithms, concepts, and Kattis problems related to those topics.
 
+See also:
+
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+- [algorithmic-resources](https://github.com/hkirat/Algorithmic-Resources)
+- [Methods to Solve](https://cpbook.net/methodstosolve)
+
 # Topics
 
 ## Graphs
