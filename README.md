@@ -29,3 +29,13 @@ Practise:
 - [`gopher2`](https://open.kattis.com/problems/gopher2)
 - [`mapcolouring`](https://open.kattis.com/problems/mapcolouring)
 - [`vivoparc`](https://open.kattis.com/problems/vivoparc)
+
+# Number Theory
+
+Study:
+
+- [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) to generate prime numbers up to some `N`, in `O(N log log N)`, with `O(N)` space complexity.
+
+Practise:
+
+- [`emergency`](https://open.kattis.com/problems/emergency)
