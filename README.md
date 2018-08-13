@@ -10,7 +10,7 @@ See also:
 
 ## Graphs
 
-### Graph Colouring
+### Graph Colouring & Bipartite Graphs
 
 Study:
 
@@ -21,6 +21,11 @@ Study:
 
 Practise:
 
+- [`basincity`](https://open.kattis.com/problems/basincity)
+- [`bookclub`](https://open.kattis.com/problems/bookclub)
 - [`cleaningpipes`](https://open.kattis.com/problems/cleaningpipes)
 - [`coloring`](https://open.kattis.com/problems/coloring)
+- [`escapeplan`](https://open.kattis.com/problems/escapeplan)
+- [`gopher2`](https://open.kattis.com/problems/gopher2)
+- [`mapcolouring`](https://open.kattis.com/problems/mapcolouring)
 - [`vivoparc`](https://open.kattis.com/problems/vivoparc)
