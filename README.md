@@ -30,7 +30,7 @@ Practise:
 - [`mapcolouring`](https://open.kattis.com/problems/mapcolouring)
 - [`vivoparc`](https://open.kattis.com/problems/vivoparc)
 
-# Number Theory
+## Number Theory
 
 Study:
 
@@ -39,3 +39,15 @@ Study:
 Practise:
 
 - [`emergency`](https://open.kattis.com/problems/emergency)
+
+## Geometry
+
+### Trigonometry
+
+Study:
+
+- The [Law of cosines](https://en.wikipedia.org/wiki/Law_of_cosines), a generalisation of Pythagoras.
+
+Practise:
+
+- [`triangleornaments`](https://open.kattis.com/problems/triangleornaments)
