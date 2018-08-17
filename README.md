@@ -52,12 +52,22 @@ Practise:
 
 - [`triangleornaments`](https://open.kattis.com/problems/triangleornaments)
 
-### Convex Hull & Rotating Callipers
+### Polygons
 
 Study:
 
-- [Rotating callipers](https://en.wikipedia.org/wiki/Rotating_calipers).
+- [Shoelace formula](https://en.wikipedia.org/wiki/Shoelace_formula) for polygon area.
+- [Even-odd rule](https://en.wikipedia.org/wiki/Even%E2%80%93odd_rule) to test if a point is inside a polygon.
+- [Convex hull](https://en.wikipedia.org/wiki/Convex_hull).
+- [Rotating callipers](https://en.wikipedia.org/wiki/Rotating_calipers) for min/max width of a polygon.
 
 Practise:
 
 - [`blowingcandles`](https://open.kattis.com/problems/blowingcandles)
+- [`convexhull`](https://open.kattis.com/problems/convexhull)
+- [`convexhull2`](https://open.kattis.com/problems/convexhull2)
+- [`cuttingcorners`](https://open.kattis.com/problems/cuttingcorners)
+- [`pointinpolygon`](https://open.kattis.com/problems/pointinpolygon)
+- [`polygonarea`](https://open.kattis.com/problems/polygonarea)
+- [`roberthood`](https://open.kattis.com/problems/roberthood)
+- [`robotprotection`](https://open.kattis.com/problems/robotprotection)
