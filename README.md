@@ -51,3 +51,13 @@ Study:
 Practise:
 
 - [`triangleornaments`](https://open.kattis.com/problems/triangleornaments)
+
+### Convex Hull & Rotating Callipers
+
+Study:
+
+- [Rotating callipers](https://en.wikipedia.org/wiki/Rotating_calipers).
+
+Practise:
+
+- [`blowingcandles`](https://open.kattis.com/problems/blowingcandles)
