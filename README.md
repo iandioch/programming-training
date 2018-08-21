@@ -32,13 +32,22 @@ Practise:
 
 ## Number Theory
 
+### Prime Numbers
+
 Study:
 
-- [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) to generate prime numbers up to some `N`, in `O(N log log N)`, with `O(N)` space complexity.
+- [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) to generate prime numbers up to some `N`, in `O(N log log N)`, with `O(N)` space complexity. You can speed it up by using wheels; ie. skipping all even numbers, or with a strategy to skip multiples of 3 as well.
 
 Practise:
 
 - [`emergency`](https://open.kattis.com/problems/emergency)
+- [`enlarginghashtables`](https://open.kattis.com/problems/enlarginghashtables)
+- [`fundamentalneighbors`](https://open.kattis.com/problems/fundamentalneighbors)
+- [`olderbrother`](https://open.kattis.com/problems/olderbrother)
+- [`pascal`](https://open.kattis.com/problems/pascal)
+- [`primalrepresentation`](https://open.kattis.com/problems/primalrepresentation)
+- [`primereduction`](https://open.kattis.com/problems/primereduction)
+- [`primesieve`](https://open.kattis.com/problems/primesieve)
 
 ## Geometry
 
