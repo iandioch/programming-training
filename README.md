@@ -42,6 +42,7 @@ Practise:
 - [`cats`](https://open.kattis.com/problems/cats)
 - [`lostmap`](https://open.kattis.com/problems/lostmap)
 - [`minspantree`](https://open.kattis.com/problems/minspantree)
+- [`freckles`](https://open.kattis.com/problems/freckles)
 
 ## Number Theory
 
