@@ -30,6 +30,19 @@ Practise:
 - [`mapcolouring`](https://open.kattis.com/problems/mapcolouring)
 - [`vivoparc`](https://open.kattis.com/problems/vivoparc)
 
+### Minimum Spanning Tree
+
+Study:
+
+- [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm), which adds edges that do not create a cycle.
+- [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm), which adds the next closest non-included vertex.
+
+Practise:
+
+- [`cats`](https://open.kattis.com/problems/cats)
+- [`lostmap`](https://open.kattis.com/problems/lostmap)
+- [`minspantree`](https://open.kattis.com/problems/minspantree)
+
 ## Number Theory
 
 ### Prime Numbers
