@@ -40,9 +40,9 @@ Study:
 Practise:
 
 - [`cats`](https://open.kattis.com/problems/cats)
+- [`freckles`](https://open.kattis.com/problems/freckles)
 - [`lostmap`](https://open.kattis.com/problems/lostmap)
 - [`minspantree`](https://open.kattis.com/problems/minspantree)
-- [`freckles`](https://open.kattis.com/problems/freckles)
 
 ## Number Theory
 
