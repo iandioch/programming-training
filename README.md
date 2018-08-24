@@ -1,6 +1,10 @@
-Some topics to study for competitive programming, and some algorithms, concepts, and Kattis problems related to those topics.
+I would like to practise competitive programming in a more structured way. This file contains a list of some topics to study, associated algorithms and formulae, and a collection of problems related to each topic.
 
-See also:
+Also in this repository are some few implementations of these algorithms.
+
+See my [competitive programming solutions repo](https://github.com/iandioch/solutions), which contains solutions to some of the problems listed here.
+
+The following links may be of interest too:
 
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 - [algorithmic-resources](https://github.com/hkirat/Algorithmic-Resources)
@@ -14,7 +18,7 @@ See also:
 
 Study:
 
-- [Brook's theorem](https://en.wikipedia.org/wiki/Brooks%27_theorem) gives an upper bound on the chromatic number of a graph.
+- [Brook's theorem](https://en.wikipedia.org/wiki/Brooks%27_theorem) gives an upper bound on the chromatic number (number of colours) of a graph.
 - Brute force search, as there is no fast algorithm to find the exact optimal colouring.
 - [Greedy colouring](https://en.wikipedia.org/wiki/Greedy_coloring).
 - [Bipartite graphs](https://en.wikipedia.org/wiki/Bipartite_graph) are graphs that can be coloured with 2 colours.
