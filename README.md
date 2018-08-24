@@ -21,14 +21,14 @@ Study:
 
 Practise:
 
-- [`basincity`](https://open.kattis.com/problems/basincity)
-- [`bookclub`](https://open.kattis.com/problems/bookclub)
-- [`cleaningpipes`](https://open.kattis.com/problems/cleaningpipes)
-- [`coloring`](https://open.kattis.com/problems/coloring)
-- [`escapeplan`](https://open.kattis.com/problems/escapeplan)
-- [`gopher2`](https://open.kattis.com/problems/gopher2)
-- [`mapcolouring`](https://open.kattis.com/problems/mapcolouring)
-- [`vivoparc`](https://open.kattis.com/problems/vivoparc)
+- [`kattis:basincity`](https://open.kattis.com/problems/basincity)
+- [`kattis:bookclub`](https://open.kattis.com/problems/bookclub)
+- [`kattis:cleaningpipes`](https://open.kattis.com/problems/cleaningpipes)
+- [`kattis:coloring`](https://open.kattis.com/problems/coloring)
+- [`kattis:escapeplan`](https://open.kattis.com/problems/escapeplan)
+- [`kattis:gopher2`](https://open.kattis.com/problems/gopher2)
+- [`kattis:mapcolouring`](https://open.kattis.com/problems/mapcolouring)
+- [`kattis:vivoparc`](https://open.kattis.com/problems/vivoparc)
 
 ### Minimum Spanning Tree
 
@@ -39,10 +39,10 @@ Study:
 
 Practise:
 
-- [`cats`](https://open.kattis.com/problems/cats)
-- [`freckles`](https://open.kattis.com/problems/freckles)
-- [`lostmap`](https://open.kattis.com/problems/lostmap)
-- [`minspantree`](https://open.kattis.com/problems/minspantree)
+- [`kattis:cats`](https://open.kattis.com/problems/cats)
+- [`kattis:freckles`](https://open.kattis.com/problems/freckles)
+- [`kattis:lostmap`](https://open.kattis.com/problems/lostmap)
+- [`kattis:minspantree`](https://open.kattis.com/problems/minspantree)
 
 ## Number Theory
 
@@ -54,14 +54,14 @@ Study:
 
 Practise:
 
-- [`emergency`](https://open.kattis.com/problems/emergency)
-- [`enlarginghashtables`](https://open.kattis.com/problems/enlarginghashtables)
-- [`fundamentalneighbors`](https://open.kattis.com/problems/fundamentalneighbors)
-- [`olderbrother`](https://open.kattis.com/problems/olderbrother)
-- [`pascal`](https://open.kattis.com/problems/pascal)
-- [`primalrepresentation`](https://open.kattis.com/problems/primalrepresentation)
-- [`primereduction`](https://open.kattis.com/problems/primereduction)
-- [`primesieve`](https://open.kattis.com/problems/primesieve)
+- [`kattis:emergency`](https://open.kattis.com/problems/emergency)
+- [`kattis:enlarginghashtables`](https://open.kattis.com/problems/enlarginghashtables)
+- [`kattis:fundamentalneighbors`](https://open.kattis.com/problems/fundamentalneighbors)
+- [`kattis:olderbrother`](https://open.kattis.com/problems/olderbrother)
+- [`kattis:pascal`](https://open.kattis.com/problems/pascal)
+- [`kattis:primalrepresentation`](https://open.kattis.com/problems/primalrepresentation)
+- [`kattis:primereduction`](https://open.kattis.com/problems/primereduction)
+- [`kattis:primesieve`](https://open.kattis.com/problems/primesieve)
 
 ## Geometry
 
@@ -73,7 +73,7 @@ Study:
 
 Practise:
 
-- [`triangleornaments`](https://open.kattis.com/problems/triangleornaments)
+- [`kattis:triangleornaments`](https://open.kattis.com/problems/triangleornaments)
 
 ### Polygons
 
@@ -86,11 +86,11 @@ Study:
 
 Practise:
 
-- [`blowingcandles`](https://open.kattis.com/problems/blowingcandles)
-- [`convexhull`](https://open.kattis.com/problems/convexhull)
-- [`convexhull2`](https://open.kattis.com/problems/convexhull2)
-- [`cuttingcorners`](https://open.kattis.com/problems/cuttingcorners)
-- [`pointinpolygon`](https://open.kattis.com/problems/pointinpolygon)
-- [`polygonarea`](https://open.kattis.com/problems/polygonarea)
-- [`roberthood`](https://open.kattis.com/problems/roberthood)
-- [`robotprotection`](https://open.kattis.com/problems/robotprotection)
+- [`kattis:blowingcandles`](https://open.kattis.com/problems/blowingcandles)
+- [`kattis:convexhull`](https://open.kattis.com/problems/convexhull)
+- [`kattis:convexhull2`](https://open.kattis.com/problems/convexhull2)
+- [`kattis:cuttingcorners`](https://open.kattis.com/problems/cuttingcorners)
+- [`kattis:pointinpolygon`](https://open.kattis.com/problems/pointinpolygon)
+- [`kattis:polygonarea`](https://open.kattis.com/problems/polygonarea)
+- [`kattis:roberthood`](https://open.kattis.com/problems/roberthood)
+- [`kattis:robotprotection`](https://open.kattis.com/problems/robotprotection)
