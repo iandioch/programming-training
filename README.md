@@ -105,4 +105,5 @@ Practise:
 
 Practise:
 
+- [`leetcode:longest-palindromic-substring`](https://leetcode.com/problems/longest-palindromic-substring)
 - [`leetcode:longest-substring-without-repeating-characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
