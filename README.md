@@ -98,3 +98,11 @@ Practise:
 - [`kattis:polygonarea`](https://open.kattis.com/problems/polygonarea)
 - [`kattis:roberthood`](https://open.kattis.com/problems/roberthood)
 - [`kattis:robotprotection`](https://open.kattis.com/problems/robotprotection)
+
+## Strings
+
+### Longest substring
+
+Practise:
+
+- [`leetcode:longest-substring-without-repeating-characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
